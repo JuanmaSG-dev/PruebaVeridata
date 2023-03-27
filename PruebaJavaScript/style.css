@@ -1,0 +1,82 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Roboto', sans-serif;
+}
+
+.center {
+    margin-left: 33.8%!important;
+}
+
+.testimonial {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 32%;
+    display: inline-flex;
+    margin: 10px;
+    height: fit-content;
+}
+
+.testimonial img {
+    border-radius: 100%;
+    width: 20%;
+    margin: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.location {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.botonañadir {
+    background-color: purple;
+    color: white;
+    padding: 30px;
+    border-radius: 100%;
+    margin-left: 90%;
+    font-size: large;
+}
+
+span {
+    color: red;
+}
+
+.inputtestimonial {
+    height: 80px;
+}
+
+.buttons {
+    height: 60px;
+}
+
+.cancel {
+    color: purple;
+    border: 1px solid purple;
+    padding: 10px;
+}
+
+.add {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+}
+
+form {
+    font-size: large;
+}
+
+form table tr td{
+    padding-right: 30%;
+}
+
+input {
+    padding-right: 300px;
+    height: 20px
+}
